@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Danker/Documents/Visual Studio 2015/Projects/SpaceGame/SpaceGame/Content/Font/Debug.spritefont</SourceFile>
+  <SourceTime>2017-07-17T08:06:45.5663876-04:00</SourceTime>
+  <DestFile>C:/Users/Danker/Documents/Visual Studio 2015/Projects/SpaceGame/SpaceGame/Content/bin/Windows/Font/Debug.xnb</DestFile>
+  <DestTime>2017-08-11T13:37:58.5521289-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T10:05:36-05:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T10:05:36-05:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
