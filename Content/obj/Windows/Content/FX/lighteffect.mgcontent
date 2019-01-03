@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/FX/lighteffect.fx</SourceFile>
+  <SourceTime>2018-10-29T10:30:19.4056399-04:00</SourceTime>
+  <DestFile>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/bin/Windows/Content/FX/lighteffect.xnb</DestFile>
+  <DestTime>2018-12-14T12:26:46.4771584-05:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-09-23T17:55:52-04:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-09-23T17:55:52-04:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

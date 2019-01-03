@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Planets/Planet1.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Planets/Blueplanet.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Planets/GreenPlanet.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Planets/OrangePlanet.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Tiles/Wall1.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Tiles/Floor1.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Tiles/BlankTile.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Ships/Ship1.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Ships/Ship2.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Player/TempSprite.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Font/Debug.spritefont</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Pixel.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Entity/temp.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/CryoParticle.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/FireParticle.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/Quills.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/SmokeParticle.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/SteamParticle.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/WaterParticle.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Particles/BlueLaser.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/Double Barrel.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/Laser Gun.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/LMG.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/Machine Gun.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/Pistol.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Weapons/Revolver.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/FX/lighteffect.fx</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/FX/lightmask.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/FX/testeffect.fx</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Weapons/Ammo/bullet.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Player/Head.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Player/LeftHand.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Player/RightHand.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Weapons/Laser.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Weapons/Pistol.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Weapons/Ammo/BetterBullet.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Weapons/Ammo/ElectroBall.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Entity/Sparker.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Items/Helmets/GarrisonHelmMkI.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/Items/Helmets/GarrisonHelmMKII.png</File>
+    <File>C:/Users/Danker/Documents/GitHub/SpaceGame/Content/GUI/Fonts/MenuFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
